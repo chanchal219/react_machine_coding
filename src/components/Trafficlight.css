@@ -1,0 +1,28 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.circle{
+   
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    border:2px solid black;
+   
+    margin:5px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+.red{
+    background-color:red;
+}
+
+.yellow{
+    background-color:yellow;
+}
+.green{
+    background-color:green;
+}
